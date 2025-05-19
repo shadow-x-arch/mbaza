@@ -150,6 +150,8 @@ Open http://localhost:5173 in your browser.
 
 
 ### here is a link for hosted web-app and githup repository
+https://arch-mbaza.netlify.app/history
+https://github.com/shadow-x-arch/mbaza.git
 
 ```
 
