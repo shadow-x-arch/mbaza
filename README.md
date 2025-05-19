@@ -46,6 +46,8 @@ Citizens often face difficulties when trying to submit complaints or feedback du
 
 - **🔐 Login System**
 
+  ### password for admin login is: username " octavenocta@gmail.com ", " admin?123 "
+
   - Secure login for admin personnel via the `/login` route.
 
 - **📋 Dashboard Overview**
@@ -153,6 +155,7 @@ Open http://localhost:5173 in your browser.
 https://arch-mbaza.netlify.app/history
 https://github.com/shadow-x-arch/mbaza.git
 
+password for admin login is: username " octavenocta@gmail.com ",  " admin?123 "
 ```
 
 # mbaza
