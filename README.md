@@ -80,6 +80,7 @@ Citizens often face difficulties when trying to submit complaints or feedback du
 | Backend       | [Supabase](https://supabase.com/)                                                                                  |
 | Notifications | [Sonner](https://sonner.emilkowal.ski/)                                                                            |
 | Charts        | [Recharts](https://recharts.org/)                                                                                  |
+| Tables        | [tanstack](https://tanstack.com/router/latest                                                                      |
 
 ---
 
@@ -151,4 +152,5 @@ Open http://localhost:5173 in your browser.
 ### here is a link for hosted web-app and githup repository
 
 ```
+
 # mbaza
